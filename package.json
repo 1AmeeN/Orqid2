@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "firebase": "9.15.0",
+    "firebase": "10.1.0",
     "firestore": "1.1.6",
     "moment": "2.29.4",
     "random-pic.js": "2.0.3",
@@ -13,7 +13,7 @@
     "react-dom": "16.8.6",
     "react-router": "6.6.1",
     "react-router-dom": "6.6.1",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.0",
     "styled-components": "5.3.6"
   },
   "devDependencies": {
